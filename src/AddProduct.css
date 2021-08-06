@@ -1,0 +1,20 @@
+.productAdd h1 {
+	font-size: 18px;
+	color: rgb(27, 27, 80);
+}
+
+.productAdd div {
+	display: flex;
+	flex-direction: row;
+}
+
+.productAdd div > * {
+	width: 50%;
+	text-align: left;
+	font-size: 18px;
+	margin: 5px;
+}
+
+.productAdd {
+	height: 230px !important;
+}

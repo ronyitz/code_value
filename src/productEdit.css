@@ -1,0 +1,20 @@
+.productDetails h1 {
+	font-size: 18px;
+	color: rgb(27, 27, 80);
+}
+
+.productDetails div {
+	display: flex;
+	flex-direction: row;
+}
+
+.productDetails div > * {
+	width: 50%;
+	text-align: left;
+	font-size: 18px;
+	margin: 5px;
+}
+
+.productDetails {
+	height: 230px !important;
+}
